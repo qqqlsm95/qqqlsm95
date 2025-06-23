@@ -14,6 +14,15 @@ I’m a robotics and vision software engineer passionate about integrating AI wi
 
 ---
 
+### ✍️ Blog & Contact
+
+<p align="left">
+  <a href="mailto:qqqlsm@gmail.com"><img src="https://img.shields.io/badge/Email-qqqlsml@naver.com-blue?style=flat&logo=gmail"></a>
+  <a href="https://yourblog.tistory.com"><img src="https://img.shields.io/badge/Blog-Tistory-black?style=flat&logo=tistory"></a>
+</p>
+
+---
+
 ### 🧰 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -42,10 +51,4 @@ I’m a robotics and vision software engineer passionate about integrating AI wi
 
 ---
 
-### ✍️ Blog & Contact
 
-<p align="left">
-  <a href="mailto:qqqlsm@gmail.com"><img src="https://img.shields.io/badge/Email-qqqlsml@naver.com-blue?style=flat&logo=naver"></a>
-  <a href="https://yourblog.tistory.com"><img src="https://img.shields.io/badge/Blog-Tistory-black?style=flat&logo=tistory"></a>
-  <a href="https://solved.ac/qqqlsm"><img src="https://img.shields.io/badge/Solved.ac-Profile-yellow?style=flat&logo=baekjoon"></a>
-</p>

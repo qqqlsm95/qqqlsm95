@@ -23,9 +23,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qqqlsm95&show_icons=true&theme=tokyonight" width="48%" style="max-height: 150px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqqlsm95&layout=compact&theme=tokyonight" width="48%" style="max-height: 100px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=qqqlsm95&show_icons=true&theme=tokyonight" width="48%" style="vertical-align: top;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqqlsm95&layout=compact&theme=tokyonight" width="48%" style="vertical-align: top;"/>
 </p>
+
 
 ### ✍️ Blog
 - [Tistory Blog](https://yourblog.tistory.com/)

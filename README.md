@@ -20,7 +20,7 @@
 ---
 
 ### 🏅 Baekjoon Tier
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qqqlsm95)](https://solved.ac/qqqlsm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qqqlsm)](https://solved.ac/qqqlsm)
 
 ### 🌱 Baekjoon Activity
 ![Solved.ac Graph](https://boj-solved-graph.vercel.app/graph/qqqlsm)

@@ -22,13 +22,10 @@
 
 ### 📊 GitHub Stats
 
-<!-- GitHub 통계 -->
-![Seongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqqlsm95&show_icons=true&theme=tokyonight)
-
-<!-- 가장 많이 사용한 언어 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqqlsm95&layout=compact&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qqqlsm95&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqqlsm95&layout=compact&theme=tokyonight" width="48%"/>
+</p>
 
 ### ✍️ Blog
 - [Tistory Blog](https://yourblog.tistory.com/)

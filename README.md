@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Seongmin Lee</h1>
 <p align="center">A passionate Vision & Robotics Software Engineer</p>
 
-- 🌱 I’m learning **ROS2, PCL, and Deep Learning-based Image Processing**
-- 🛠️ I use: `C++`, `Python`, `Qt`, `OpenCV`, `YOLO`, `ROS`, `tesnsorflow`
-- 💬 Ask me about anything related to robotics and machine vision
-- 📫 How to reach me: `qqqlsml@naver.com`
+---
+
+### 🚀 About Me
+
+I’m a robotics and vision software engineer passionate about integrating AI with real-world automation systems.
+
+- 🔍 Experienced in developing 3D vision-based robot automation applications  
+- 🧠 Strong background in C++, Python, ROS, and GUI development with Qt  
+- 🌱 Currently exploring ROS2, PCL, and deep learning-based vision inspection  
+- 🛠️ Focused on building intelligent systems that connect perception with action  
 
 ---
 
 ### 🧰 Tech Stack
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -20,18 +27,25 @@
 ---
 
 ### 🏅 Baekjoon Tier
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qqqlsm)](https://solved.ac/qqqlsm)
 
-
 ---
+
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qqqlsm95&show_icons=true&theme=tokyonight" width="48%" style="vertical-align: top;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqqlsm95&layout=compact&theme=tokyonight" width="48%" style="vertical-align: top;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=qqqlsm95&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqqlsm95&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+---
 
-### ✍️ Blog
-- [Tistory Blog](https://yourblog.tistory.com/)
+### ✍️ Blog & Contact
+
+<p align="left">
+  <a href="mailto:qqqlsm@naver.com"><img src="https://img.shields.io/badge/Email-qqqlsml@naver.com-blue?style=flat&logo=gmail"></a>
+  <a href="https://yourblog.tistory.com"><img src="https://img.shields.io/badge/Blog-Tistory-black?style=flat&logo=tistory"></a>
+  <a href="https://solved.ac/qqqlsm"><img src="https://img.shields.io/badge/Solved.ac-Profile-yellow?style=flat&logo=baekjoon"></a>
+</p>

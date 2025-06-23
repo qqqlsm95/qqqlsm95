@@ -21,10 +21,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qqqlsm95&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqqlsm95&layout=compact" width="48%" />
-</p>
+
+<!-- GitHub 통계 -->
+![Seongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqqlsm95&show_icons=true&theme=tokyonight)
+
+<!-- 가장 많이 사용한 언어 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqqlsm95&layout=compact&theme=tokyonight)
 
 ---
 

@@ -17,6 +17,13 @@
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
+---
+
+### 🏅 Baekjoon Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qqqlsm95)](https://solved.ac/qqqlsm)
+
+### 🌱 Baekjoon Activity
+![Solved.ac Graph](https://boj-solved-graph.vercel.app/graph/qqqlsm)
 
 ---
 

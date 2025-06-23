@@ -21,8 +21,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Seongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqqlsm95&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqqlsm95&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qqqlsm95&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqqlsm95&layout=compact" width="48%" />
+</p>
 
 ---
 

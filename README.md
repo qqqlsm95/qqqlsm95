@@ -10,17 +10,8 @@ I’m a robotics and vision software engineer passionate about integrating AI wi
 - 🔍 Experienced in developing 3D vision-based robot automation applications  
 - 🧠 Strong background in C++, Python, ROS, and GUI development with Qt  
 - 🌱 Currently exploring ROS2, PCL, and deep learning-based vision inspection  
-- 🛠️ Focused on building intelligent systems that connect perception with action  
-
----
-
-### ✍️ Blog & Contact
-
-<p align="left">
-  <a href="mailto:qqqlsm@gmail.com"><img src="https://img.shields.io/badge/Email-qqqlsml@naver.com-blue?style=flat&logo=gmail"></a>
-  <a href="https://yourblog.tistory.com"><img src="https://img.shields.io/badge/Blog-Tistory-black?style=flat&logo=tistory"></a>
-</p>
-
+- 🛠️ Focused on building intelligent systems that connect perception with action
+  
 ---
 
 ### 🧰 Tech Stack
@@ -51,4 +42,11 @@ I’m a robotics and vision software engineer passionate about integrating AI wi
 
 ---
 
+### ✍️ Blog & Contact
+
+<p align="left">
+  <a href="mailto:qqqlsm@gmail.com"><img src="https://img.shields.io/badge/Email-qqqlsml@naver.com-blue?style=flat&logo=gmail"></a>
+  
+  <a href="https://yourblog.tistory.com"><img src="https://img.shields.io/badge/Blog-Tistory-black?style=flat&logo=tistory"></a>
+</p>
 

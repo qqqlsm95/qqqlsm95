@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seongmin Lee</h1>
-<p align="center">A passionate Vision & Robotics Software Engineer</p>
+<p align="center">Aspiring Vision & Robotics Software Engineer with a passion for intelligent automation</p>
 
 ---
 

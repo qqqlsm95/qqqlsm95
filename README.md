@@ -23,7 +23,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qqqlsm)](https://solved.ac/qqqlsm)
 
 ### 🌱 Baekjoon Activity
-![Solved.ac Graph](https://boj-solved-graph.vercel.app/graph/qqqlsm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={qqqlsm}&theme=dark)
 
 ---
 

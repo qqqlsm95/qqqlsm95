@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seongmin Lee</h1>
+<h1 align="center">Hi 👋, I'm Sungmin Lee</h1>
 <p align="center">Aspiring Vision & Robotics Software Engineer with a passion for intelligent automation</p>
 
 ---

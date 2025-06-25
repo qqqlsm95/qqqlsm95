@@ -7,7 +7,6 @@
 
 I’m a robotics and vision software engineer passionate about integrating AI with real-world automation systems.
 
-- 🔍 Experienced in developing 3D vision-based robot automation applications  
 - 🧠 Strong background in C++, Python, ROS, and GUI development with Qt  
 - 🌱 Currently exploring ROS2, PCL, and deep learning-based vision inspection  
 - 🛠️ Focused on building intelligent systems that connect perception with action

@@ -36,7 +36,7 @@ I’m a robotics and vision software engineer passionate about integrating AI wi
 
 ### 🏅 Baekjoon Tier
 <p align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qqqlsm)](https://solved.ac/qqqlsm)
+  <[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qqqlsm)](https://solved.ac/qqqlsm)/>
 </p>
 
 ---

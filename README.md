@@ -25,18 +25,18 @@ I’m a robotics and vision software engineer passionate about integrating AI wi
 
 ---
 
-### 🏅 Baekjoon Tier
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qqqlsm)](https://solved.ac/qqqlsm)
-
----
-
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qqqlsm95&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqqlsm95&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 🏅 Baekjoon Tier
+<p align="center">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qqqlsm)](https://solved.ac/qqqlsm)
 </p>
 
 ---
